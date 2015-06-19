@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  DayOutApp
+
+  Created by Swetha RK on 11/11/14.
+  Copyright (c) 2014 Swetha RK. All rights reserved.
+*/
+
+"NSLocationWhenInUseUsageDescription" = "Location is required to find out where you are";
+"NSLocationAlwaysUsageDescription" = "Location is required to find out where you are";
